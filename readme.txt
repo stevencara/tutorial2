@@ -1,0 +1,1 @@
+Explicacíon sobre configuraciones preliminares
