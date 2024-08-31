@@ -166,3 +166,8 @@ a[href="https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_E
     color: rgb(37,95,28);
     font-style: italic;
 }
+
+.menu{
+    background-color: black;
+    color: antiquewhite;
+}
